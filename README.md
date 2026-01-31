@@ -4,6 +4,7 @@ An interactive analytics dashboard that provides comprehensive insights into Uni
 
 **Live Dashboard:** [https://dune.com/_john_/uniswap-v2-paircreated-dashboard](https://dune.com/_john_/uniswap-v2-paircreated-dashboard)
 
+![Dashboard Preview](image.png)
 ---
 
 ## Table of Contents
